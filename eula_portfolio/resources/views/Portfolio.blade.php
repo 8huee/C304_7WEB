@@ -188,7 +188,7 @@
     <div class="container">
       <h1><strong>Hello, I'm Eula Pineda</strong></h1>
       <p>Let's get to know each other, shall we?</p>
-      <img src="profile.png" class="profile-cute" alt="Profile" />
+      <img src="images/hue.png" class="profile-cute" alt="Profile" />
       <br>
       <a href="#contact" class="btn btn-accent mt-3">Get in Touch with Hue</a>
     </div>
