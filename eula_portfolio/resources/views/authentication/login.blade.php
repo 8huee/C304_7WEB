@@ -1,3 +1,3 @@
-@include('components.header.')
+@include('components.header')
 
-@include('components.footer.')
+@include('components.footer')
